@@ -11,7 +11,7 @@ navigator = MazeNavigator(maze, True)
 maze.solution = navigator.path
 maze.display()
 ```
-()
+()![Video of animated maze creation](/assets/)
 You can also set how many steps of creation or solution it goes through before each display, the default is 5. The lower it is the slower and more detailed it will be, and higher is the opposite.
 ```
 from MazeClass import Maze
