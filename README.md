@@ -11,9 +11,11 @@ navigator = MazeNavigator(maze, True)
 maze.solution = navigator.path
 maze.display()
 ```
-![](
-https://github.com/user-attachments/assets/d16314d5-f49c-40d6-8328-7f5f92882217
-)
+
+
+https://github.com/user-attachments/assets/6c7845c4-3809-4ffe-b737-d5a2fcbfaecd
+
+
 You can also set how many steps of creation or solution it goes through before each display, the default is 5. The lower it is the slower and more detailed it will be, and higher is the opposite.
 ```
 from MazeClass import Maze
