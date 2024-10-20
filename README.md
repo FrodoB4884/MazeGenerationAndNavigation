@@ -27,4 +27,8 @@ navigator = MazeNavigator(maze, True, 20)
 maze.solution = navigator.path
 maze.display()
 ```
-()
+
+
+https://github.com/user-attachments/assets/464a8e2e-5c52-4559-a634-126b06d1baee
+
+
