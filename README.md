@@ -1,5 +1,5 @@
 # MazeGenerationAndNavigation
-This is an A Level style project that generates a maze using DFS and then solves it using A Star. These process are done using recursion rather than iteration and I have separated the main components of the project into objects, the maze class, the maze generator class and the maze navigator class.
+This is an A Level example project that generates a maze using DFS and then solves it using A Star. These process are done using recursion rather than iteration and I have separated the main components of the project into objects, the maze class, the maze generator class and the maze navigator class.
 I have implemeted the graphics using Turtle, and you can choose to view the creation and solution of the maze step by step by setting the animate_creation property of the maze generation class and maze navigation class during their initialization to true like so:
 ```
 from MazeClass import Maze
